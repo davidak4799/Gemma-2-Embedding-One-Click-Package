@@ -1,0 +1,13 @@
+sentence-transformers>=6.1.0
+transformers>=5.18.0
+huggingface_hub>=1.0
+accelerate
+numpy
+pillow
+streamlit>=1.40
+opencv-python-headless
+imageio-ffmpeg
+pypdf
+python-docx
+python-pptx
+openpyxl
