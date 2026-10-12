@@ -1,0 +1,9 @@
+venv/
+runtime/
+models/embeddinggemma-2/*
+!models/embeddinggemma-2/.gitkeep
+index/*
+!index/.gitkeep
+install_log.txt
+__pycache__/
+*.pyc
